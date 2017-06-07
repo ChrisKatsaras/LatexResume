@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.5.24)  21 MAY 2017 21:02
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.5.24)  7 JUN 2017 10:00
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -905,6 +905,11 @@ LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <5.5> not available
 (Font)              size <5> substituted on input line 36.
 
 
+LaTeX Font Warning: Font shape `EU1/Raleway-Medium(0)/bx/n' undefined
+(Font)              using `EU1/Raleway-Medium(0)/m/n' instead on input line 36.
+
+
+
 LaTeX Font Warning: Font shape `EU1/Lato-Lig(0)/m/sc' undefined
 (Font)              using `EU1/Lato-Lig(0)/m/n' instead on input line 48.
 
@@ -939,17 +944,17 @@ LaTeX Font Warning: Font shape `EU1/Lato-Bol(0)/bx/n' undefined
 (Font)              using `EU1/Lato-Bol(0)/m/n' instead on input line 50.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 54.
+(Font)              <7> on input line 245.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 54.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 264.
+(Font)              <5> on input line 245.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 281.
 [1
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 264.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 281.
  (./cv_12.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 264.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 264.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 281.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 281.
 
 
 LaTeX Font Warning: Size substitutions with differences
@@ -958,13 +963,13 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 264.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 281.
  ) 
 Here is how much of TeX's memory you used:
- 21750 strings out of 493706
- 405196 string characters out of 6145769
- 460291 words of memory out of 5000000
- 24933 multiletter control sequences out of 15000+600000
+ 21752 strings out of 493706
+ 405251 string characters out of 6145769
+ 462292 words of memory out of 5000000
+ 24935 multiletter control sequences out of 15000+600000
  6140 words of font info for 60 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
  53i,8n,104p,10357b,490s stack positions out of 5000i,500n,10000p,200000b,80000s
